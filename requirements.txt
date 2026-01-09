@@ -1,0 +1,4 @@
+# Requirements for is_scanned_table.py
+fitz  # PyMuPDF
+pytesseract
+Pillow
